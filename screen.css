@@ -15,7 +15,9 @@ main{
    
 }
 .masthead{
-   background: no-repeat / cover url(images/Computer\ image.png);
+   background-image: url(images/Computer\ image.png);
+   background-size: cover;
+   background-position: bottom;
    height: 250px;
    border-radius: 20px;
 }
@@ -40,7 +42,7 @@ main{
 }
 .details section.with-code{
    padding: 0;
-   font-size: 24;
+   font-size: 24px;
 
 }
 
