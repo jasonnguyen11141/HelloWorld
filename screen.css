@@ -5,6 +5,7 @@ body   {
    font-family:Helvetica, sans-serif;
    border-top: 15px solid #424242;
    margin: 0;
+   color: #424242;
 
 } 
 /* margin space centering image and text */
@@ -47,4 +48,8 @@ h2{
 p{
    margin: 0;
    line-height: 1.4em;
+}
+h1{
+   background-image: url(images/Logo.png);
+   width: 10%;
 }
