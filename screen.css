@@ -11,14 +11,13 @@ body   {
 main{
    margin: 0 auto;
    width: 800px;
-   background-color: black;
    
 }
 .masthead{
    background-image: url(images/Computer\ image.png);
    background-size: cover;
    background-position: bottom;
-   height: 200px;
+   height: 250px;
    border-radius: 20px;
 }
 /* evens out text for each section on html file & split text */
