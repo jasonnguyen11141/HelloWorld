@@ -11,6 +11,15 @@ body   {
 main{
    margin: 0 auto;
    width: 800px;
+   background-color: black;
+   
+}
+.masthead{
+   background-image: url(images/Computer\ image.png);
+   background-size: cover;
+   background-position: bottom;
+   height: 200px;
+   border-radius: 20px;
 }
 /* evens out text for each section on html file & split text */
 .details{
@@ -39,5 +48,4 @@ h2{
 p{
    margin: 0;
    line-height: 1.4em;
-   background-color: rgb(10, 10, 10);
 }
