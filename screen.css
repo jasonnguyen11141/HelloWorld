@@ -12,9 +12,10 @@ main{
    margin: 0 auto;
    width: 800px;
 }
-/* evens out text for each section on html file */
+/* evens out text for each section on html file & split text */
 .details{
    display: flex;
+   gap: 25px
 }
 
 .details section{
@@ -22,9 +23,20 @@ main{
    flex-basis: 0;
    background-color: #d7d4d4;
    padding: 20px;
+   border-radius: 20px;
 
 }
 /* image size */
 img{
    width: 100%;
+}
+/* set margin for header */
+h2{
+   margin: 0 0 10px 0;
+
+}
+/* set margin for paragraph */
+p{
+   margin: 0;
+   line-height: 1.4em;
 }
