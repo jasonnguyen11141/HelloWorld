@@ -22,9 +22,9 @@ main{
    flex-grow: 1;
    flex-basis: 0;
    background-color: #d7d4d4;
-   padding: 20px;
+   padding: 25px;
    border-radius: 20px;
-
+   margin-top: 25px;
 }
 /* image size */
 img{
@@ -39,4 +39,5 @@ h2{
 p{
    margin: 0;
    line-height: 1.4em;
+   background-color: rgb(10, 10, 10);
 }
